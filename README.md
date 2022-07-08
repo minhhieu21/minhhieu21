@@ -26,6 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhhieu21&show_icons=true&locale=en&layout=compact" alt="minhhieu21" /></p>
 
+### ⚡ Statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhhieu21&show_icons=true&locale=en" alt="minhhieu21" /></p>
 
 <details>
