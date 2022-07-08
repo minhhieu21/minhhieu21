@@ -27,3 +27,37 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhhieu21&show_icons=true&locale=en&layout=compact" alt="minhhieu21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhhieu21&show_icons=true&locale=en" alt="minhhieu21" /></p>
+
+<details>
+<summary><b>📺 Popular Projects</b> (Click to open)</summary><br/>
+<table>
+<tbody>
+<tr>
+<a href="https://github.com/minhhieu21/StoreApp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=minhhieu21&repo=StoreApp" />
+</a>
+</tr>
+<a href="https://github.com/minhhieu21/webStore">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=minhhieu21&repo=webStore" />
+</a>
+</tr>
+<tr>
+<a href="https://github.com/minhhieu21/quizOnline">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=minhhieu21&repo=quizOnline" />
+</a>
+</tr>
+<tr>
+<a href="https://github.com/minhhieu21/basicWeb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=minhhieu21&repo=basicWeb" />
+</a>
+</tr>
+<tr>
+</tbody>
+</table>
+</details>
+
+---
+
+<br/><br/>
+<h4 align="center">VISITORS STATS</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{minhhieu21}/count.svg"/></p>
